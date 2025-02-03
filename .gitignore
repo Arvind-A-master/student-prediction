@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-.artifacts
+.artifacts/
+.catboost_info/
 # Distribution / packaging
 .Python
 build/
